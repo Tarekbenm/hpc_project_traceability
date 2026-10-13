@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+outputs/
+data/raw/
+data/bronze/
+data/silver/
+data/gold/
+*.pbix
+*.parquet
+*.log
